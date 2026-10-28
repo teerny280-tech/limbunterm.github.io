@@ -1,0 +1,8 @@
+{
+  "name": "LIM Bunterm — Graphic Design Portfolio",
+  "description": "Interactive animated portfolio website showcasing brand identity, packaging, and graphic design with high-resolution gallery and client inquiry dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
